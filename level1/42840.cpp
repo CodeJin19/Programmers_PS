@@ -19,7 +19,7 @@ vector<int> solution(vector<int> answers) {
     }
     
     for (int i = 0; i < answers.size(); i++)
-	{        
+    {        
         if(first[i % 5] == answers[i])
         {
             score[0] += 1;
@@ -34,7 +34,7 @@ vector<int> solution(vector<int> answers) {
         {
             score[2] += 1;
         }
-	}
+    }
     
     for(int i = 0; i < 3; i++)
     {
