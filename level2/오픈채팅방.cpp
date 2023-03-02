@@ -1,5 +1,3 @@
-//오픈채팅방
-
 #include <string>
 #include <vector>
 #include <map>

@@ -1,5 +1,3 @@
-//숫자 게임
-
 #include <string>
 #include <vector>
 #include <algorithm>

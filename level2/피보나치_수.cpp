@@ -1,5 +1,3 @@
-//피보나치_수
-
 #include <string>
 #include <vector>
 

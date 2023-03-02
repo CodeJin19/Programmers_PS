@@ -1,5 +1,3 @@
-//[3차] 압축
-
 #include <string>
 #include <vector>
 #include <map>

@@ -1,5 +1,3 @@
-//카펫
-
 #include <string>
 #include <vector>
 

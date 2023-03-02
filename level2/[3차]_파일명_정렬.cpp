@@ -1,5 +1,3 @@
-// [3차] 파일명 정렬
-
 #include <string>
 #include <vector>
 #include <algorithm>

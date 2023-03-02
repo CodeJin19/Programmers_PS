@@ -1,5 +1,3 @@
-//짝지어 
-
 #include <vector>
 #include <string>
 

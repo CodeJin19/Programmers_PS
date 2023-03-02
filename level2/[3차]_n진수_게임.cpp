@@ -1,5 +1,3 @@
-//[3차] n진수 게임
-
 #include <string>
 #include <vector>
 #include <algorithm>

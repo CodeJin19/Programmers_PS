@@ -1,5 +1,3 @@
-//[3차] 방금그곡
-
 #include <string>
 #include <vector>
 

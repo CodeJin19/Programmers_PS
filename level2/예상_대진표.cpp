@@ -1,5 +1,3 @@
-//예상 대진표
-
 #include <iostream>
 
 using namespace std;

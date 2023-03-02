@@ -1,5 +1,3 @@
-//큰 수 만들기
-
 #include <string>
 #include <vector>
 
