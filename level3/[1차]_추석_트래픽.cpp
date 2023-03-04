@@ -1,5 +1,3 @@
-//[1차] 추석 트래픽
-
 #include <string>
 #include <vector>
 #include <algorithm>

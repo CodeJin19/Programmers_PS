@@ -1,5 +1,3 @@
-//[1차] 
-
 #include <string>
 #include <vector>
 #include <algorithm>

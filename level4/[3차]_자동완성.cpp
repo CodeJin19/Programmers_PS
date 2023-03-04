@@ -1,5 +1,3 @@
-//[3차] 자동완성
-
 #include <string>
 #include <vector>
 

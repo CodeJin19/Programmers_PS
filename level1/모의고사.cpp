@@ -1,5 +1,3 @@
-//모의고사
-
 #include <string>
 #include <vector>
 

@@ -1,5 +1,3 @@
-// 단어 변환
-
 #include <string>
 #include <vector>
 #include <queue>
